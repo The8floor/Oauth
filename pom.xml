@@ -306,6 +306,7 @@
       <format>xml</format>
     </configuration>
     <executions>
+    
       <execution>
         <goals>
           <goal>clean</goal>
